@@ -1,0 +1,63 @@
+#header {
+	height: 150px;
+	border: 1px solid black;
+}
+
+#content {
+	height: 400px;
+	border: 1px solid black;
+}
+
+#footer {
+	height: 50px;
+	border: 1px solid black;
+}
+
+#logo {
+	height: 75px;
+	border: 1px solid black;
+	width: 29%;
+	float: left;
+}
+
+#meni {
+	height: 75px;
+	border: 1px solid black;
+	width: 99%;
+	float: left;
+}
+
+ul li {
+	display: inline;
+	border-right: 1px solid blue;
+	padding-right: 25px;
+	padding-left: 25px;
+	decoration: none;
+}
+
+#login {
+	height: 75px;
+	float: left;
+	width: 70%;
+	border: 1px solid black;
+}
+
+#leftcontent {
+	float: left;
+	height: 350px;
+	width: 40%;
+	border: 1px solid black;
+	margin: 15px 0px 15px 50px;
+}
+
+#rightcontent {
+	height: 350px;
+	border: 1px solid black;
+	width: 40%;
+	margin: 15px 50px 15px 0px;
+	float: right;
+}
+
+a {
+	text-decoration: none;
+}

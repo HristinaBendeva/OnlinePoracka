@@ -1,0 +1,46 @@
+#leftcontent {
+	width: 25%;
+	border: 1px solid black;
+	float: left;
+}
+
+#rightcontent {
+	width: 74%;
+	border: 1px solid black;
+	float: left;
+	height: 500px;
+}
+
+input {
+	margin: 5px;
+	padding: 5px;
+}
+
+#mainContent {
+	width: 750px;
+	height: 480px;
+	border: 1px solid black;
+	float: right;
+	margin: 10px;
+}
+
+#leftbuttons {
+	width: 150px;
+	height: 480px;
+	border: 1px solid black;
+	float: left;
+	margin: 10px;
+}
+
+#dodajObrok {
+	display:none;
+}
+#izbrisiObrok {
+	display: none;
+}
+#promeniObrok {
+	display: none;
+}
+#listajObrok {
+	display: none;
+}
